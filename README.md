@@ -1,3 +1,3 @@
 # College-System-Design
 ## A System Analysis & Design project was done by using UML Design.
-## college system shows how to manage a college with a single system.
+## college system shows how to help students to sign up and hands-on college website.
